@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name":"Silent Echoes",
+        "author":"L.J. Ross",
+        "price":0,
+        "category":"Free",
+        "image":"https://covers.openlibrary.org/b/id/9250926-L.jpg"
+    },
+    {
+        "id":2,
+        "name":"Shadows of the Past",
+        "author":"Emma Winters",
+        "price":0,
+        "category":"Free",
+        "image":"https://covers.openlibrary.org/b/id/9091425-L.jpg"
+    },
+    {
+        "id":3,
+        "name":"Broken Dreams",
+        "author":"K.D. Ellis",
+        "price":0,
+        "category":"Free",
+        "image":"https://covers.openlibrary.org/b/id/8254158-L.jpg"
+    },
+    {
+        "id":4,
+        "name":"Mystic River",
+        "author":"Dennis Lehane",
+        "price":0,
+        "category":"Free",
+        "image":"https://covers.openlibrary.org/b/id/8093754-L.jpg"
+    },
+    {
+        "id":5,
+        "name":"Whispers in the Dark",
+        "author":"Maya Banks",
+        "price":0,
+        "category":"Free",
+        "image":"https://covers.openlibrary.org/b/id/8235121-L.jpg"
+    },
+    {
+        "id":6,
+        "name":"Lost in Time",
+        "author":"Melissa Scott",
+        "price":0,
+        "category":"Free",
+        "image":"https://covers.openlibrary.org/b/id/8165042-L.jpg"
+    },
+    {
+        "id":7,
+        "name":"Echoes of Eternity",
+        "author":"Angela White",
+        "price":0,
+        "category":"Free",
+        "image":"https://covers.openlibrary.org/b/id/7962498-L.jpg"
+    },
+    {
+        "id":8,
+        "name":"The Last Enchantress",
+        "author":"Gina Kincade",
+        "price":0,
+        "category":"Free",
+        "image":"https://covers.openlibrary.org/b/id/8043176-L.jpg"
+    }
+]

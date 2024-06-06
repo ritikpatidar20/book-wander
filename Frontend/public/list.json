@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"The Hunt",
+        "author":"Ryan Green",
+        "price":0,
+        "category":"Free",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330_ebook/public/webform/ebook_feature_application/9619/hunt-ebook-cover.jpg?itok=2J5WbYA6"
+    },
+    {
+        "id":2,
+        "name":"The Human Trial",
+        "author":"Audrey Gale",
+        "price":0,
+        "category":"Free",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330_ebook/public/webform/ebook_feature_application/9542/book-cover_the-human-trial_1.jpg?itok=So54Gnfc"
+    },
+    {
+        "id":3,
+        "name":"Relent",
+        "author":"Nina Levine",
+        "price":0,
+        "category":"Free",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330_ebook/public/webform/ebook_feature_application/9566/relent-book-cover.jpg?itok=fIKXaICL"
+    },
+    {
+        "id":4,
+        "name":"BloodStone",
+        "author":"M.J. Mallon",
+        "price":0,
+        "category":"Free",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330_ebook/public/webform/ebook_feature_application/9610/911uqtqlvms._sy466_.jpg?itok=q0Dn5lag"
+    },
+    {
+        "id":5,
+        "name":"Interview With Death",
+        "author":"V.K. Pasanen",
+        "price":0,
+        "category":"Free",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330_ebook/public/webform/ebook_feature_application/9595/ebook-cover-1.jpg?itok=knJtDhCF"
+    },
+    {
+        "id":6,
+        "name":"The Cursed Odyssey",
+        "author":"Fredrick Martinus",
+        "price":0,
+        "category":"Free",
+        "image":"https://manybooks.net/sites/default/files/styles/220x330_ebook/public/webform/ebook_feature_application/9642/front-cover-the-cursed-odyssey.jpg?itok=PIkWJ4VM"
+    }
+]
